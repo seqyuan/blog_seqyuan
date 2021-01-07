@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: anno-sc
+title: seqyuan
 subtitle: ''
 description: ''
 keywords:
-author: anno-sc
+author: seqyuan
 language: zh-CN
 timezone: ''
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://example.com/child' and root as '/child/'
-url: https://anno-sc.com
+url: https://seqyuan.com
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -98,11 +98,11 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: 3-hexo
+theme: navy
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: git@github.com:anno-sc/anno-sc.github.io.git
+  repo: git@github.com:seqyuan/seqyuan.github.io.git
   branch: master
